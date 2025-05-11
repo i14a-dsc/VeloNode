@@ -1,5 +1,5 @@
 {
-  "name": "simple_node_game_engine",
+  "name": "velo-node",
   "module": "engine/index.ts",
   "type": "module",
   "private": true,
