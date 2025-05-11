@@ -1,0 +1,12 @@
+{
+  "name": "simple_node_game_engine",
+  "module": "engine/index.ts",
+  "type": "module",
+  "private": true,
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5"
+  }
+}
