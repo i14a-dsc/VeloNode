@@ -1,0 +1,50 @@
+[
+{
+  "directory": "C:/repo/velo-node/build",
+  "command": "C:\\PROGRA~1\\LLVM\\bin\\clang-cl.exe  /nologo -TP -DNAPI_VERSION=8 -Dvelo_EXPORTS -IC:\\repo\\velo-node\\node_modules\\node-api-headers\\include -IC:\\repo\\velo-node\\node_modules\\node-addon-api -IC:\\repo\\velo-node\\imgui -IC:\\repo\\velo-node\\imgui\\backends -IC:\\VulkanSDK\\1.4.313.0\\Include /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MD /O2 /Ob2 /DNDEBUG -std:c++20 /FoCMakeFiles\\velo.dir\\src\\lib.cxx.obj /FdCMakeFiles\\velo.dir\\ -c -- C:\\repo\\velo-node\\src\\lib.cxx",
+  "file": "C:\\repo\\velo-node\\src\\lib.cxx",
+  "output": "CMakeFiles\\velo.dir\\src\\lib.cxx.obj"
+},
+{
+  "directory": "C:/repo/velo-node/build",
+  "command": "C:\\PROGRA~1\\LLVM\\bin\\clang-cl.exe  /nologo -TP -DNAPI_VERSION=8 -Dvelo_EXPORTS -IC:\\repo\\velo-node\\node_modules\\node-api-headers\\include -IC:\\repo\\velo-node\\node_modules\\node-addon-api -IC:\\repo\\velo-node\\imgui -IC:\\repo\\velo-node\\imgui\\backends -IC:\\VulkanSDK\\1.4.313.0\\Include /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MD /O2 /Ob2 /DNDEBUG -std:c++20 /FoCMakeFiles\\velo.dir\\src\\NativeWindow.cxx.obj /FdCMakeFiles\\velo.dir\\ -c -- C:\\repo\\velo-node\\src\\NativeWindow.cxx",
+  "file": "C:\\repo\\velo-node\\src\\NativeWindow.cxx",
+  "output": "CMakeFiles\\velo.dir\\src\\NativeWindow.cxx.obj"
+},
+{
+  "directory": "C:/repo/velo-node/build",
+  "command": "C:\\PROGRA~1\\LLVM\\bin\\clang-cl.exe  /nologo -TP -IC:\\repo\\velo-node\\imgui -IC:\\repo\\velo-node\\imgui\\backends -IC:\\VulkanSDK\\1.4.313.0\\Include /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MD /O2 /Ob2 /DNDEBUG /FoCMakeFiles\\imgui.dir\\imgui\\imgui.cpp.obj /FdCMakeFiles\\imgui.dir\\imgui.pdb -c -- C:\\repo\\velo-node\\imgui\\imgui.cpp",
+  "file": "C:\\repo\\velo-node\\imgui\\imgui.cpp",
+  "output": "CMakeFiles\\imgui.dir\\imgui\\imgui.cpp.obj"
+},
+{
+  "directory": "C:/repo/velo-node/build",
+  "command": "C:\\PROGRA~1\\LLVM\\bin\\clang-cl.exe  /nologo -TP -IC:\\repo\\velo-node\\imgui -IC:\\repo\\velo-node\\imgui\\backends -IC:\\VulkanSDK\\1.4.313.0\\Include /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MD /O2 /Ob2 /DNDEBUG /FoCMakeFiles\\imgui.dir\\imgui\\imgui_demo.cpp.obj /FdCMakeFiles\\imgui.dir\\imgui.pdb -c -- C:\\repo\\velo-node\\imgui\\imgui_demo.cpp",
+  "file": "C:\\repo\\velo-node\\imgui\\imgui_demo.cpp",
+  "output": "CMakeFiles\\imgui.dir\\imgui\\imgui_demo.cpp.obj"
+},
+{
+  "directory": "C:/repo/velo-node/build",
+  "command": "C:\\PROGRA~1\\LLVM\\bin\\clang-cl.exe  /nologo -TP -IC:\\repo\\velo-node\\imgui -IC:\\repo\\velo-node\\imgui\\backends -IC:\\VulkanSDK\\1.4.313.0\\Include /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MD /O2 /Ob2 /DNDEBUG /FoCMakeFiles\\imgui.dir\\imgui\\imgui_draw.cpp.obj /FdCMakeFiles\\imgui.dir\\imgui.pdb -c -- C:\\repo\\velo-node\\imgui\\imgui_draw.cpp",
+  "file": "C:\\repo\\velo-node\\imgui\\imgui_draw.cpp",
+  "output": "CMakeFiles\\imgui.dir\\imgui\\imgui_draw.cpp.obj"
+},
+{
+  "directory": "C:/repo/velo-node/build",
+  "command": "C:\\PROGRA~1\\LLVM\\bin\\clang-cl.exe  /nologo -TP -IC:\\repo\\velo-node\\imgui -IC:\\repo\\velo-node\\imgui\\backends -IC:\\VulkanSDK\\1.4.313.0\\Include /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MD /O2 /Ob2 /DNDEBUG /FoCMakeFiles\\imgui.dir\\imgui\\imgui_widgets.cpp.obj /FdCMakeFiles\\imgui.dir\\imgui.pdb -c -- C:\\repo\\velo-node\\imgui\\imgui_widgets.cpp",
+  "file": "C:\\repo\\velo-node\\imgui\\imgui_widgets.cpp",
+  "output": "CMakeFiles\\imgui.dir\\imgui\\imgui_widgets.cpp.obj"
+},
+{
+  "directory": "C:/repo/velo-node/build",
+  "command": "C:\\PROGRA~1\\LLVM\\bin\\clang-cl.exe  /nologo -TP -IC:\\repo\\velo-node\\imgui -IC:\\repo\\velo-node\\imgui\\backends -IC:\\VulkanSDK\\1.4.313.0\\Include /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MD /O2 /Ob2 /DNDEBUG /FoCMakeFiles\\imgui.dir\\imgui\\imgui_tables.cpp.obj /FdCMakeFiles\\imgui.dir\\imgui.pdb -c -- C:\\repo\\velo-node\\imgui\\imgui_tables.cpp",
+  "file": "C:\\repo\\velo-node\\imgui\\imgui_tables.cpp",
+  "output": "CMakeFiles\\imgui.dir\\imgui\\imgui_tables.cpp.obj"
+},
+{
+  "directory": "C:/repo/velo-node/build",
+  "command": "C:\\PROGRA~1\\LLVM\\bin\\clang-cl.exe  /nologo -TP -IC:\\repo\\velo-node\\imgui -IC:\\repo\\velo-node\\imgui\\backends -IC:\\VulkanSDK\\1.4.313.0\\Include /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MD /O2 /Ob2 /DNDEBUG /FoCMakeFiles\\imgui.dir\\imgui\\backends\\imgui_impl_vulkan.cpp.obj /FdCMakeFiles\\imgui.dir\\imgui.pdb -c -- C:\\repo\\velo-node\\imgui\\backends\\imgui_impl_vulkan.cpp",
+  "file": "C:\\repo\\velo-node\\imgui\\backends\\imgui_impl_vulkan.cpp",
+  "output": "CMakeFiles\\imgui.dir\\imgui\\backends\\imgui_impl_vulkan.cpp.obj"
+}
+]

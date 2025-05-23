@@ -1,12 +1,22 @@
 {
   "name": "velo-node",
   "module": "engine/index.ts",
-  "type": "module",
+  "type": "commonjs",
   "private": true,
-  "devDependencies": {
-    "@types/bun": "latest"
+  "scripts": {
+    "preinstall": "cmake-js configure --verbose -GNinja --DCMAKE_TOOLCHAIN_FILE=Game.cmake && cmake-js build"
   },
-  "peerDependencies": {
-    "typescript": "^5"
-  }
+  "dependencies": {
+    "node-addon-api": "^8.3.1"
+  },
+  "devDependencies": {
+    "cmake-js": "^7.3.1"
+  },
+  "binary": {
+    "napi_versions": [8]
+  },
+  "files": [
+    "build/velo.node"
+  ],
+  "packageManager": "pnpm@8.15.9"
 }

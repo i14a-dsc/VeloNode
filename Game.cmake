@@ -1,0 +1,5 @@
+set(CMAKE_C_STANDARD_LIBRARIES "/nodefaultlib")
+set(CMAKE_CXX_STANDARD_LIBRARIES ${CMAKE_C_STANDARD_LIBRARIES} msvcprt.lib)
+set(CMAKE_C_COMPILER clang-cl)
+set(CMAKE_CXX_COMPILER clang-cl)
+set(CMAKE_RC_COMPILER llvm-rc)

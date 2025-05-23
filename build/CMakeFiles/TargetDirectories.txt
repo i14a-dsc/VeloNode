@@ -1,0 +1,5 @@
+C:/repo/velo-node/build/CMakeFiles/addon.dir
+C:/repo/velo-node/build/CMakeFiles/velo.dir
+C:/repo/velo-node/build/CMakeFiles/imgui.dir
+C:/repo/velo-node/build/CMakeFiles/edit_cache.dir
+C:/repo/velo-node/build/CMakeFiles/rebuild_cache.dir

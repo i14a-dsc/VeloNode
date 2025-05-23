@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"C:/repo/velo-node/build/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
